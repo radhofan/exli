@@ -2,6 +2,13 @@
 
 # Set Up
 
+# Fix permissions for the build context
+sudo chown -R $USER:$USER ./my_mounting_point
+chmod -R 755 ./my_mounting_point
+
+# Exclude ./my_mounting_point from the build context
+echo "my_mounting_point" > .dockerignore
+
 # Install Docker
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
