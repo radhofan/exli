@@ -1,3 +1,9 @@
+### NOTE: THIS REPOSITORY IS A REPRODUCIBLE PAPER EXPERIMENT AND IS INTENDED TO BE RAN INSIDE CHAMELEON TROVI
+#### Reproduce this experiment via reproduce.ipynb
+#### This experiment has been modified to ensure perfect replication
+#### Reproduce this repository in Chameleon Trovi here: 
+#### Original repository link: https://github.com/SEED-VT/Web-Ads-Accessibility
+
 # ExLi
 Automatically extracting inline tests from unit tests and executing these inline tests with [itest][itest-url].
 
