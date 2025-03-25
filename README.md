@@ -1,7 +1,7 @@
 ### NOTE: THIS REPOSITORY IS A REPRODUCIBLE PAPER EXPERIMENT AND IS INTENDED TO BE RAN INSIDE CHAMELEON TROVI
 #### Reproduce this experiment via reproduce.ipynb
 #### This experiment has been modified to ensure perfect replication
-#### Reproduce this repository in Chameleon Trovi here: 
+#### Reproduce this repository in Chameleon Trovi here: https://www.chameleoncloud.org/experiment/share/554b286d-5866-49da-9d36-9ce59b086cfe
 #### Original repository link: https://github.com/SEED-VT/Web-Ads-Accessibility
 
 # ExLi
